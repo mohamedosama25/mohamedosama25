@@ -1,6 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VGA+437+font&weight=600&size=30&duration=3000&pause=300&color=1EFF3BDC&center=true&vCenter=true&random=false&width=435&lines=kali%40whoami;Mohamed+Osama" alt="Typing SVG" /></a>
 </div>
+<hr>
 <h3 align="center">Passionate Cybersecurity Enthusiast | Aspiring Red Team Specialist | Junior Penetration Tester</h3>
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
