@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced Penetration Testing Techniques, Red Team Operations, Cybersecurity Tools, Cloud Security, Incident Response and Forensics**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T1HhNtR1Ar_3HFklrMa7aGWrTIqyI9-W/view?usp=sharing](https://drive.google.com/file/d/1T1HhNtR1Ar_3HFklrMa7aGWrTIqyI9-W/view?usp=sharing)
+- 📄 Take a look at my resume ! [https://drive.google.com/file/d/1T1HhNtR1Ar_3HFklrMa7aGWrTIqyI9-W/view?usp=sharing](https://drive.google.com/file/d/1T1HhNtR1Ar_3HFklrMa7aGWrTIqyI9-W/view?usp=sharing)
 
 - ⚡ Fun fact **I'm that cybersecurity enthusiast who can spot a phishing email from a mile away, but still falls for the "Are you a robot?" checkbox every time. Hey, nobody's perfect, right?**
 
