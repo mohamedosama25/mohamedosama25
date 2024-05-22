@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Osama</h1>
 <h3 align="center">Passionate Cybersecurity Enthusiast | Aspiring Red Team Specialist | Junior Penetration Tester</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedosama25&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedosama25" /> </p>
 
